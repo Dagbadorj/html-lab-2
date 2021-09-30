@@ -1,2 +1,1 @@
-# html-lab-2
- 
+https://dagbadorj.github.io/html-lab-2/
